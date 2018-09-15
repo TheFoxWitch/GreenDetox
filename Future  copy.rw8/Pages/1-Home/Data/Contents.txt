@@ -1,0 +1,112 @@
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<div class="container">
+    <h1>See What's Inside Every Scoop</h1>
+    <h2>THE SCIENCE-BASED FORMULA</h2>
+<hr>
+<div class="row">
+        <p>
+        <img src="https://cdn.shopify.com/s/files/1/1512/9920/files/green1.jpg?15296895607767353862">
+        <strong>Organic Spirulina Algae</strong><br>
+        This natural source of algae is incredibly high in protein and a good source of antioxidants, B-vitamins and other nutrients.<sup>[8][9]</sup></p>
+    </div>
+<hr>
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/powder.jpg">
+    <strong>Organic Chlorella</strong><br>
+    As a source of chlorophyll, protein, iron, magnesium, and amino acids, its unique properties make it able to bind to heavy metals and unwanted chemicals in the body.<sup>[10]</sup></p>
+</div>
+<hr>
+<!-- <div class="row">
+    <p>
+    <img src="https://cdn.shopify.com/s/files/1/1512/9920/files/fff.jpg?3066632969873560189">
+    <strong>Organic Spinach Leaf & Stalk</strong><br>
+    Loaded with vitamins K, A, C, B2, B6, and E, it’s also rich in potassium, magnesium, folate, iron, calcium, iodine, phosphorus, zinc, copper, fiber, healthy omega-3 fats, and protein.<sup>[11]</sup></p>
+</div>
+<hr> -->
+<!-- <div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/cccc.jpg">
+    <strong>Organic Broccoli Leaf</strong><br>
+    The leaf portion of this vegetable contains a richer source of beta-carotene than either the stems or florets - promoting healthy skin, immune health, and good eye health and vision.<sup>[12]</sup></p>
+</div>
+<hr> -->
+<!-- <div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/jkjk.jpg">
+    <strong>Organic Whole Kelp</strong><br>
+    This form of seaweed contains iodine - a vital nutrient that helps support a healthy thyroid, metabolism and brain function.<sup>[13]</sup></p>
+</div>
+<hr> -->
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/kale.jpg">
+    <strong>Organic Kale</strong><br>
+    A cruciferous powerhouse for supporting healthy cells, DNA, detox and liver function.<sup>[14]</sup></p>
+</div>
+<hr>
+<!-- <div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/ginger.jpg">
+    <strong>Organic Ginger Root</strong><br>
+    A natural root studied for it's anti-inflammatory, anti-fungal and digestive supporting properties.<sup>[15]</sup></p>
+
+</div>
+<hr> -->
+<div class="row">
+    <p>
+    <img src="https://cdn.shopify.com/s/files/1/1512/9920/files/crn.jpg?1358375396093231510"><strong>Cranberry</strong><br>
+    Provides an abundant source of a unique subclass of flavonoids called proanthocyanidins.<sup>[17]</sup></p>
+</div>
+<hr>
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/link.jpg">
+    <strong>Goji</strong><br>
+    Contains a complete spectrum of antioxidant carotenoids, including beta-carotene and zeaxanthin.<sup>[18]</sup></p>
+</div>
+<hr>
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/tt.jpg">
+    <strong>Pomegranate</strong><br>
+    Packed with high levels of ellagic acid, tannins and anthocyanins, which are potent antioxidants.<sup>[19]</sup></p>
+</div>
+<hr>
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/bbaba.jpg">
+    <strong>Acerola</strong><br>
+    One of the richest sources of Vitamin C, acerola also contains a variety of mineral salts that can help stressed and tired skin to be remineralized.<sup>[20]</sup></p>
+</div>
+<hr>
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/Six+Pack+Abs+Shop/FRUITS/choice.jpg">
+    <strong>Acai</strong><br>
+    A rich source of antioxidant compounds, particularly anthocyanins and Omega 3 fatty acids.<sup>[21]</sup></p>
+</div>
+<hr>
+<!--
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/GREEN%20DETOX/wheatgrass.jpg">
+    <strong>Wheatgrass</strong><br>
+    This form of vegetation contains a wide variety of minerals plus vitamins A, B-complex, C, E, l and K. It is extremely rich in protein, and contains 17 amino acids, the building blocks of protein.<sup>[22]</sup></p>
+</div>
+<hr>
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/GREEN%20DETOX/alfalfa.jpg">
+    <strong>Alfalfa</strong><br>
+    With a high content of vitamin C, this sprout is thought to be an ideal booster for your immune system. Vitamin C not only stimulates the production of white blood cells but also acts as an antioxidant to eliminate oxidative stress.<sup>[23]</sup></p>
+</div>
+<hr> -->
+<div class="row">
+    <p>
+    <img src="https://d3qp76ntuan7m1.cloudfront.net/img/GREEN%20DETOX/bitter-melon.jpg">
+    <strong>Bitter Melon</strong><br>
+    Bitter Melon has been researched for its anti-fungal, antibiotic, anti-allergenic, antiviral, anti-parasitic qualities. For all these reasons and many more, bitter melon is a staple among a number of cultural cuisines across the world.<sup>[24]</sup></p>
+</div>
+<hr>
+</div>

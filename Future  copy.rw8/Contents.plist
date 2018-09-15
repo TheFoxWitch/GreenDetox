@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string>RapidWeaver</string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>File References</key>
+				<dict>
+					<key>App Scope</key>
+					<false/>
+					<key>File References</key>
+					<array>
+						<dict>
+							<key>fullPath</key>
+							<string>future.png</string>
+							<key>identifier</key>
+							<string>6A6ADCFE-C3FD-4597-9C49-7567B03D34AE</string>
+							<key>isInternal</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>fullPath</key>
+							<string>gd-combined.png</string>
+							<key>identifier</key>
+							<string>837DC2CF-78B3-4C66-B4BD-21C3F8A43C80</string>
+							<key>isInternal</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>fullPath</key>
+							<string>GreenDetox-bottle-w-pie.jpg</string>
+							<key>identifier</key>
+							<string>D47D04DD-2807-4739-B421-C0C1B6A3909F</string>
+							<key>isInternal</key>
+							<true/>
+						</dict>
+						<dict>
+							<key>fullPath</key>
+							<string>GreenDetox-bottle-w-pie.jpg</string>
+							<key>identifier</key>
+							<string>A703EFAB-A40E-4513-B598-4A9D2A332B9D</string>
+							<key>isInternal</key>
+							<true/>
+						</dict>
+					</array>
+				</dict>
+				<key>Minimum Application Version</key>
+				<string>8.0</string>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>page0 - file:///Users/Alice/Sites/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-09-14T23:19:20Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								I4lOUrGFskPG
+								VjYNtAsRAQ==
+								</data>
+								<key>Size</key>
+								<integer>9379</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page0</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>page1 - file:///Users/Alice/Sites/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-09-14T23:19:20Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/3dab9509172385fac5b539cc1a10fb3f-0.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								BEIdKecgaZva
+								oUoK0js2FA==
+								</data>
+								<key>Size</key>
+								<integer>6666</integer>
+							</dict>
+							<key>files/752f82acc7eb77c807d708e2ecb0504f-1.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								jC/JWEJ25HBz
+								HezBVxXWDQ==
+								</data>
+								<key>Size</key>
+								<integer>6660</integer>
+							</dict>
+							<key>files/archive-july-2018.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								rdVAPOTRjx7f
+								aInXgSo1Iw==
+								</data>
+								<key>Size</key>
+								<integer>6118</integer>
+							</dict>
+							<key>files/feed.xml</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								FBnCY8Gtqaxu
+								L8iUGdpnWg==
+								</data>
+								<key>Size</key>
+								<integer>2180</integer>
+							</dict>
+							<key>files/meta.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								qcyZwV8mntwW
+								Dhfx2RxvLA==
+								</data>
+								<key>Size</key>
+								<integer>1965</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								LNFHRHRUSzG0
+								bAVaGaim1Q==
+								</data>
+								<key>Size</key>
+								<integer>5787</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page1</string>
+						<key>SiteRoot</key>
+						<string>blog</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>page2 - file:///Users/Alice/Sites/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-09-14T23:19:20Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/page2-1000-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								wILCWr4eYUn5
+								SCUQsQhFKA==
+								</data>
+								<key>Size</key>
+								<integer>980</integer>
+							</dict>
+							<key>files/page2-1000-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								nGbcfz6QEqX5
+								ugfdn8merg==
+								</data>
+								<key>Size</key>
+								<integer>37560</integer>
+							</dict>
+							<key>files/page2-1000-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								bIh5TP3IP3tz
+								DFAPN3mPtw==
+								</data>
+								<key>Size</key>
+								<integer>19035</integer>
+							</dict>
+							<key>files/page2-1001-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								cgvspwMk+NeD
+								lYPyIHFyfw==
+								</data>
+								<key>Size</key>
+								<integer>1018</integer>
+							</dict>
+							<key>files/page2-1001-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								KeF1k9FgYi6A
+								zfiv0XHDwg==
+								</data>
+								<key>Size</key>
+								<integer>69050</integer>
+							</dict>
+							<key>files/page2-1001-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Kvg+TOgM6R4Q
+								nrEh6s8zCw==
+								</data>
+								<key>Size</key>
+								<integer>32865</integer>
+							</dict>
+							<key>files/page2-1002-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								WaS8IO0+ouE7
+								kBOqYCWrzQ==
+								</data>
+								<key>Size</key>
+								<integer>1026</integer>
+							</dict>
+							<key>files/page2-1002-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								lrfYvk8bX3Tr
+								mDYDn1Mq7A==
+								</data>
+								<key>Size</key>
+								<integer>36886</integer>
+							</dict>
+							<key>files/page2-1002-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								qHlDGF7Hzrmh
+								YlNswS6zwA==
+								</data>
+								<key>Size</key>
+								<integer>17186</integer>
+							</dict>
+							<key>files/page2-1003-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								HhI/dWe2wgxf
+								MsUTgGDTOQ==
+								</data>
+								<key>Size</key>
+								<integer>1016</integer>
+							</dict>
+							<key>files/page2-1003-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ZhsZ9yRX77iw
+								WA5RRMkHyw==
+								</data>
+								<key>Size</key>
+								<integer>46292</integer>
+							</dict>
+							<key>files/page2-1003-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								MYnSKqBIqxNi
+								rA1eih6jbQ==
+								</data>
+								<key>Size</key>
+								<integer>18839</integer>
+							</dict>
+							<key>files/page2-1004-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								tkk9GyvCSGMD
+								TXWiMhCl9Q==
+								</data>
+								<key>Size</key>
+								<integer>1022</integer>
+							</dict>
+							<key>files/page2-1004-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								MGumIKDiXEoU
+								RQ/Q3emGBQ==
+								</data>
+								<key>Size</key>
+								<integer>51013</integer>
+							</dict>
+							<key>files/page2-1004-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								sEEyqBppLxeu
+								jKa2OD3nPA==
+								</data>
+								<key>Size</key>
+								<integer>23683</integer>
+							</dict>
+							<key>files/page2-1005-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								+5cOk+aLdCuF
+								C4zSgNEw9g==
+								</data>
+								<key>Size</key>
+								<integer>1026</integer>
+							</dict>
+							<key>files/page2-1005-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								MK2UuuIN5IFH
+								gcYoKEpG4w==
+								</data>
+								<key>Size</key>
+								<integer>58564</integer>
+							</dict>
+							<key>files/page2-1005-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								obTINjKj3f4h
+								e75TzMm0ww==
+								</data>
+								<key>Size</key>
+								<integer>24662</integer>
+							</dict>
+							<key>files/page2-1006-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								nWNkG0Ynroh7
+								a5073JL0ww==
+								</data>
+								<key>Size</key>
+								<integer>1040</integer>
+							</dict>
+							<key>files/page2-1006-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								EnSZw+jR8OfM
+								fvqYbxM1XA==
+								</data>
+								<key>Size</key>
+								<integer>27264</integer>
+							</dict>
+							<key>files/page2-1006-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								5eH1z+3pv6oY
+								bm7Xa3VQCQ==
+								</data>
+								<key>Size</key>
+								<integer>15967</integer>
+							</dict>
+							<key>files/page2-1007-full.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								D346LLNy7jO1
+								ZoLlZLK5dw==
+								</data>
+								<key>Size</key>
+								<integer>986</integer>
+							</dict>
+							<key>files/page2-1007-full.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								sb7XOCrnEwW2
+								UEKqS1RN4w==
+								</data>
+								<key>Size</key>
+								<integer>52798</integer>
+							</dict>
+							<key>files/page2-1007-thumb.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Q3YAJ+4BThhl
+								SKaz0Ez/Tw==
+								</data>
+								<key>Size</key>
+								<integer>22441</integer>
+							</dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								TTMla3TG91cG
+								hI57L7LNGg==
+								</data>
+								<key>Size</key>
+								<integer>6850</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page2</string>
+						<key>SiteRoot</key>
+						<string>photos</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>rw:document:extrafiles - file:///Users/Alice/Sites/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-09-14T23:17:03Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>rw_common/images/GreenDetox-bottle-w-pie.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								U83WqmTVhbtz
+								QrogeneCoA==
+								</data>
+								<key>Size</key>
+								<integer>83882</integer>
+							</dict>
+							<key>rw_common/version.txt</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								p/3bnEPjEMlV
+								Tqz6GW66Pg==
+								</data>
+								<key>Size</key>
+								<integer>5</integer>
+							</dict>
+							<key>sitemap.xml</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								AoSal4Hb/Fy7
+								LTitlS65GQ==
+								</data>
+								<key>Size</key>
+								<integer>1669</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>rw:document:extrafiles</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>rw:document:resources - file:///Users/Alice/Sites/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-09-14T23:17:03Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>GreenDetox-bottle-w-pie.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								U83WqmTVhbtz
+								QrogeneCoA==
+								</data>
+								<key>Size</key>
+								<integer>83882</integer>
+							</dict>
+							<key>future.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								echRgNreeMat
+								VgM2J/DoVg==
+								</data>
+								<key>Size</key>
+								<integer>6256</integer>
+							</dict>
+							<key>gd-combined.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								s1uXfofMEqg4
+								xcLwkXv5uA==
+								</data>
+								<key>Size</key>
+								<integer>40917</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>rw:document:resources</string>
+						<key>SiteRoot</key>
+						<string>resources</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>rw:plugin:blog - file:///Users/Alice/Sites/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-09-14T22:23:21Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>rss.gif</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ySu0h74kFZbd
+								w1d11rHDPA==
+								</data>
+								<key>Size</key>
+								<integer>219</integer>
+							</dict>
+							<key>smiley_angry.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								OsvBGlBtLs1C
+								xAB3/F5vkA==
+								</data>
+								<key>Size</key>
+								<integer>1275</integer>
+							</dict>
+							<key>smiley_embarrassed.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Ok+zrbTJSQbz
+								YHvbtXa5FQ==
+								</data>
+								<key>Size</key>
+								<integer>1310</integer>
+							</dict>
+							<key>smiley_footinmouth.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								oNlmERQNe+Jv
+								bhxYf6Q/sQ==
+								</data>
+								<key>Size</key>
+								<integer>1254</integer>
+							</dict>
+							<key>smiley_gasp.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								3fIF+LsL4I97
+								3PnZdsHYdg==
+								</data>
+								<key>Size</key>
+								<integer>1208</integer>
+							</dict>
+							<key>smiley_laugh.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								aiKkmJLIzkmw
+								I7ENY7ns/A==
+								</data>
+								<key>Size</key>
+								<integer>1283</integer>
+							</dict>
+							<key>smiley_sad.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								JrI6GFcEDYoD
+								NPeCi0NJDQ==
+								</data>
+								<key>Size</key>
+								<integer>1263</integer>
+							</dict>
+							<key>smiley_smile.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								ek1FWaeOXYzG
+								u9xa5IUf6A==
+								</data>
+								<key>Size</key>
+								<integer>1240</integer>
+							</dict>
+							<key>smiley_wink.png</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								zIRR5aU+gUMZ
+								uXop1aVLFA==
+								</data>
+								<key>Size</key>
+								<integer>1236</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>rw:plugin:blog</string>
+						<key>SiteRoot</key>
+						<string>rw_common/plugins/blog</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>rw:theme:Future - file:///Users/Alice/Sites/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2018-09-14T23:19:20Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>consolidated-2.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								igRJ+N3NVY1s
+								Pm++lG8cbA==
+								</data>
+								<key>Size</key>
+								<integer>183619</integer>
+							</dict>
+							<key>consolidated.css</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								SRYQhIns28Cw
+								1Usd3mwiVA==
+								</data>
+								<key>Size</key>
+								<integer>182529</integer>
+							</dict>
+							<key>images/banners/default.jpg</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								jbsOG/bNeMj2
+								PnQSaD0LQw==
+								</data>
+								<key>Size</key>
+								<integer>110431</integer>
+							</dict>
+							<key>js/main.js</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								zCNJWjN975o8
+								Vh1hhm8CnQ==
+								</data>
+								<key>Size</key>
+								<integer>155733</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>rw:theme:Future</string>
+						<key>SiteRoot</key>
+						<string>rw_common/themes/Future</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+				<key>Site Resources</key>
+				<data>
+				YnBsaXN0MDDUAAEAAgADAAQABQAGAQUBBlgkdmVyc2lv
+				blgkb2JqZWN0c1kkYXJjaGl2ZXJUJHRvcBIAAYagrxBF
+				AAcACAARABIAGgAdACQALgBBAEIAQwBEAEgASwBRADcA
+				UwBXAFsAZgBnAGgAaQBvAHIAdQB7AHwAhwCIAIkAigCO
+				AJEAlwCYAKMApAClAKYAqgCtALMAtAC/AMAAwQDCAMUA
+				ywDMAM0A2ADZANoA2wDeAOQA5QDmAPEA8gDzAPQA9wD9
+				AP4A/wEDVSRudWxs0wAJAAoACwAMAA4AEFdOUy5rZXlz
+				Wk5TLm9iamVjdHNWJGNsYXNzoQANgAKhAA+AA4BEVG5v
+				ZGXUABMAFAAVAAsAFgAXABgAGVROYW1lVWl0ZW1zWGNo
+				aWxkcmVugACABoAEgEPSAAoACwAbAByggAXSAB4AHwAg
+				ACFaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFibGVB
+				cnJheaMAIAAiACNXTlNBcnJheVhOU09iamVjdNIACgAL
+				ACUAHKcAJgAnACgAKQAqACsALIAHgBKAG4AjgCuAM4A7
+				gAXaAC8AMAALADEAMgAzABMANAA1ADYANwAWADkAFgAW
+				ADwAPQA+AD8AQF5SZW1vdGVSZXNvdXJjZVtPcmlnaW5h
+				bFVSTFxQdWJsaXNoZWRVUkxdUHVibGlzaGVkRGF0ZV8Q
+				D0NoYW5nZWRTdGF0dXNlc1pJZGVudGlmaWVyWVRpbWVT
+				dGFtcFlGaWxlVG9rZW4IgACAEYAAgACADYAJgAiAC4AK
+				XxAkRUMyMDBBMkUtQkZCQi00QTg0LTlEQ0QtRjc3OEM5
+				QjdBOUQwWmZ1dHVyZS5wbmdfECQ2QTZBRENGRS1DM0ZE
+				LTQ1OTctOUM0OS03NTY3QjAzRDM0QUXSAEUACwBGAEdX
+				TlMudGltZSNBwKY8vJh+IIAM0gAeAB8ASQBKVk5TRGF0
+				ZaIASQAj0wAJAAoACwBMAE4AUKEATYAOoQBPgA+AEF8Q
+				GmZpbGU6Ly8vVXNlcnMvQWxpY2UvU2l0ZXMvCNIAHgAf
+				AFQAVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjAFQAVgAj
+				XE5TRGljdGlvbmFyedIAHgAfAFgAWV5SV1NpdGVSZXNv
+				dXJjZaIAWgAjXlJXU2l0ZVJlc291cmNl2gAvADAACwAx
+				ADIAMwATADQANQA2AFwAFgA5AF8AFgBhAGIAYwBkAGUJ
+				gACAEYAWgACAGYAUgBOAGIAVXxAkOTBGNTU1MkQtQzZE
+				MS00RUQ0LUFCMjktRkFCMjJFRUQwMUREXxAkcGhvdG8t
+				MTUyODY0MDQ1NDI0Ny1hMDU3MmRmOGMwZjQuanBnXxC+
+				aHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3Rv
+				LTE1Mjg2NDA0NTQyNDctYTA1NzJkZjhjMGY0P2l4bGli
+				PXJiLTAuMy41JnE9ODAmZm09anBnJmNyb3A9ZW50cm9w
+				eSZjcz10aW55c3JnYiZ3PTEwODAmZml0PW1heCZpeGlk
+				PWV5SmhjSEJmYVdRaU9qRXpNalE1ZlEmcz02MzFhMmY2
+				NzQ4MTljOTg5MGYzMDdiNGVmMzRlOTIyOdMAagALAGsA
+				FgBtAGVXTlMuYmFzZVtOUy5yZWxhdGl2ZYAAgBeAFdIA
+				HgAfAHAAcVVOU1VSTKIAcAAj0gBFAAsAcwBHI0HApjy8
+				mJ9zgAzTAAkACgALAHYAeABQoQB3gBqhAE+AD4AQXxAa
+				ZmlsZTovLy9Vc2Vycy9BbGljZS9TaXRlcy/aAC8AMAAL
+				ADEAMgAzABMANAA1ADYAXAAWADkAgAAWAIIAgwCEAIUA
+				hgmAAIARgB+AAIAhgB2AHIAggB5fECRGMjBCNkM2My00
+				RjBELTQ4MzYtOTE4MC1CRDVFN0JFNTJGNjlfECRwaG90
+				by0xNTA5NjM1MjE0Njg5LTk4ZWYzMWVjN2U4Mi5qcGdf
+				EL5odHRwczovL2ltYWdlcy51bnNwbGFzaC5jb20vcGhv
+				dG8tMTUwOTYzNTIxNDY4OS05OGVmMzFlYzdlODI/aXhs
+				aWI9cmItMC4zLjUmcT04MCZmbT1qcGcmY3JvcD1lbnRy
+				b3B5JmNzPXRpbnlzcmdiJnc9MTA4MCZmaXQ9bWF4Jml4
+				aWQ9ZXlKaGNIQmZhV1FpT2pFek1qUTVmUSZzPWNhYWE1
+				YjExNjg2MTc4NGYyZGNhY2QxNWRkN2YyZGFh0wBqAAsA
+				awAWAG0AhoAAgBeAHtIARQALAI8ARyNBwKY8vJi7qoAM
+				0wAJAAoACwCSAJQAUKEAk4AioQBPgA+AEF8QGmZpbGU6
+				Ly8vVXNlcnMvQWxpY2UvU2l0ZXMv2gAvADAACwAxADIA
+				MwATADQANQA2AFwAFgA5AJwAFgCeAJ8AoAChAKIJgACA
+				EYAngACAKYAlgCSAKIAmXxAkMDMyRUE5M0EtQkZCQi00
+				MDU2LUJERjgtNUQ5NEJGMTU2RTA0XxAkcGhvdG8tMTUz
+				MDY5MjIyODI2NS0wODRiMjE1NjZiMTIuanBnXxC+aHR0
+				cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1
+				MzA2OTIyMjgyNjUtMDg0YjIxNTY2YjEyP2l4bGliPXJi
+				LTAuMy41JnE9ODAmZm09anBnJmNyb3A9ZW50cm9weSZj
+				cz10aW55c3JnYiZ3PTEwODAmZml0PW1heCZpeGlkPWV5
+				SmhjSEJmYVdRaU9qRXpNalE1ZlEmcz1mODJmODJmZDE2
+				ZWJiZWRjMTVhZjFiNzhmYmNkOWY4Y9MAagALAGsAFgBt
+				AKKAAIAXgCbSAEUACwCrAEcjQcCmPLyY1huADNMACQAK
+				AAsArgCwAFChAK+AKqEAT4APgBBfEBpmaWxlOi8vL1Vz
+				ZXJzL0FsaWNlL1NpdGVzL9oALwAwAAsAMQAyADMAEwA0
+				ADUANgA3ALYAOQAWABYAugC7ALwAvQC+CIAygBGAAIAA
+				gDCALYAsgC+ALl8QJDNCOEUwRTI5LUJBRTAtNDM3Ri05
+				NTAwLUUyNDQ2NkEwOEY4N18QD2dkLWNvbWJpbmVkLnBu
+				Z18QJDgzN0RDMkNGLTc4QjMtNEM2Ni1CNEJELTIxQzNG
+				OEE0M0M4MNIARQALAMMARyNBwKY8vJjvLIAM0wAJAAoA
+				CwDGAMgAUKEAx4AxoQBPgA+AEF8QGmZpbGU6Ly8vVXNl
+				cnMvQWxpY2UvU2l0ZXMvXxA/L1VzZXJzL0FsaWNlL0Rl
+				c2t0b3AvRGVza3RvcCB+L1NpeFBhY2tTaG9ydGN1dHMv
+				Z2QtY29tYmluZWQucG5n2gAvADAACwAxADIAMwATADQA
+				NQA2ADcAzwA5ABYAFgDTANQA1QDWANcIgDqAEYAAgACA
+				OIA1gDSAN4A2XxAkMDNGNTgyMUYtMkU4Ri00RkZFLTk5
+				RTctQkI5RUFDQ0QyQzMwXxAbR3JlZW5EZXRveC1ib3R0
+				bGUtdy1waWUuanBnXxAkRDQ3RDA0REQtMjgwNy00NzM5
+				LUI0MjEtQzBDMUI2QTM5MDlG0gBFAAsA3ABHI0HApjy8
+				mQlCgAzTAAkACgALAN8A4QBQoQDggDmhAE+AD4AQXxAa
+				ZmlsZTovLy9Vc2Vycy9BbGljZS9TaXRlcy9fEEsvVXNl
+				cnMvQWxpY2UvRGVza3RvcC9EZXNrdG9wIH4vU2l4UGFj
+				a1Nob3J0Y3V0cy9HcmVlbkRldG94LWJvdHRsZS13LXBp
+				ZS5qcGfaAC8AMAALADEAMgAzABMANAA1ADYANwDoADkA
+				FgAWAOwA7QDuAO8A8AiAQoARgACAAIBAgD2APIA/gD5f
+				ECQ0OUUzNDlDNS0zRTUzLTRCRUItQjUzMC02MjdFMjgz
+				NDZBQjNfEBtHcmVlbkRldG94LWJvdHRsZS13LXBpZS5q
+				cGdfECRBNzAzRUZBQi1BNDBFLTQ1MTMtQjU5OC00QTlE
+				MkEzMzJCOUTSAEUACwD1AEcjQcCmPLyZIsCADNMACQAK
+				AAsA+AD6AFChAPmAQaEAT4APgBBfEBpmaWxlOi8vL1Vz
+				ZXJzL0FsaWNlL1NpdGVzL18QSy9Vc2Vycy9BbGljZS9E
+				ZXNrdG9wL0Rlc2t0b3Agfi9TaXhQYWNrU2hvcnRjdXRz
+				L0dyZWVuRGV0b3gtYm90dGxlLXctcGllLmpwZ9IAHgAf
+				AQABAVxSV1NpdGVGb2xkZXKiAQIAI1xSV1NpdGVGb2xk
+				ZXLSAB4AHwBWAQSiAFYAI18QD05TS2V5ZWRBcmNoaXZl
+				ctEBBwEIVHJvb3SAAQAIABkAIgArADUAOgA/AMwA0gDf
+				AOcA8gD5APwA/gEBAQMBBQEKARsBIAEmAS8BMQEzATUB
+				NwFAAUEBQwFMAVcBYAFvAXYBfgGHAZABnwGhAaMBpQGn
+				AakBqwGtAa8B2AHnAfMCAAIOAiACKwI1Aj8CQAJCAkQC
+				RgJIAkoCTAJOAlACUgJ5AoQCqwK0ArwCxQLHAtAC1wLc
+				AukC7ALuAvEC8wL1AxIDEwMcAzIDOQNGA08DXgNjA3ID
+				mwOcA54DoAOiA6QDpgOoA6oDrAOuA9UD/AS9BMoE0gTe
+				BOAE4gTkBO0E8wT4BQEFCgUMBRkFHAUeBSEFIwUlBUIF
+				awVsBW4FcAVyBXQFdgV4BXoFfAV+BaUFzAaNBpoGnAae
+				BqAGqQayBrQGwQbEBsYGyQbLBs0G6gcTBxQHFgcYBxoH
+				HAceByAHIgckByYHTQd0CDUIQghECEYISAhRCFoIXAhp
+				CGwIbghxCHMIdQiSCLsIvAi+CMAIwgjECMYIyAjKCMwI
+				zgj1CQcJLgk3CUAJQglPCVIJVAlXCVkJWwl4CboJ4wnk
+				CeYJ6AnqCewJ7gnwCfIJ9An2Ch0KOwpiCmsKdAp2CoMK
+				hgqICosKjQqPCqwK+gsjCyQLJgsoCyoLLAsuCzALMgs0
+				CzYLXQt7C6ILqwu0C7YLwwvGC8gLywvNC88L7Aw6DEMM
+				UAxVDGIMawxwDIIMhwyMAAAAAAAAAgIAAAAAAAABCQAA
+				AAAAAAAAAAAAAAAADI4=
+				</data>
+				<key>SiteAttributes</key>
+				<dict>
+					<key>AddCopyrightMailTo</key>
+					<true/>
+					<key>AnonymiseThirdPartyRequests</key>
+					<false/>
+					<key>BannerIdentifier</key>
+					<string>49E349C5-3E53-4BEB-B530-627E28346AB3</string>
+					<key>BaseURL</key>
+					<string>www.greendetox.com</string>
+					<key>ConsolidateCSSFiles</key>
+					<true/>
+					<key>ConsolidateCommonFilesMode</key>
+					<integer>0</integer>
+					<key>ContactText</key>
+					<string>Contact Us</string>
+					<key>CopyrightText</key>
+					<string>© 2018 Sixpack Shortcuts</string>
+					<key>CopyrightTextUsed</key>
+					<true/>
+					<key>CruftlessLinksEnabled</key>
+					<true/>
+					<key>DirectoryIndexFilenames</key>
+					<array>
+						<string>index.htm</string>
+						<string>index.php</string>
+						<string>index.html</string>
+					</array>
+					<key>EmailAddress</key>
+					<string>hi@greendetox.com</string>
+					<key>MostRecentlySelectedThemeStyle</key>
+					<string>Theme Default</string>
+					<key>ObfuscateEmailAddress</key>
+					<true/>
+					<key>PrivacyMessage</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGCAlYJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oKEHVSRudWxsXxAPTlNLZXllZEFyY2hpdmVy
+					0QoLVHJvb3SAAAgRGiMtMjc5P1FUWQAAAAAA
+					AAEBAAAAAAAAAAwAAAAAAAAAAAAAAAAAAABb
+					</data>
+					<key>PrivacyMessageDismissButtonTitle</key>
+					<string>Dismiss</string>
+					<key>PublishingDestinations</key>
+					<array>
+						<dict>
+							<key>anonymous</key>
+							<false/>
+							<key>automaticallyConfigured</key>
+							<false/>
+							<key>backupFrequency</key>
+							<integer>0</integer>
+							<key>connectionMode</key>
+							<integer>0</integer>
+							<key>enablePublicKeyAuthentication</key>
+							<false/>
+							<key>fileSystemPathBookmark</key>
+							<data>
+							Ym9va4gCAAAAAAQQMAAA
+							ANoIPeM2z1iHJ71OmS6X
+							D6MWi4AMbq2l/eJxGx+N
+							iudUhAEAAAQAAAADAwAA
+							AAgAKAUAAAABAQAAVXNl
+							cnMAAAAFAAAAAQEAAEFs
+							aWNlAAAABQAAAAEBAABT
+							aXRlcwAAAAwAAAABBgAA
+							EAAAACAAAAAwAAAACAAA
+							AAQDAAB11QkAAAAAAAgA
+							AAAEAwAA4dAPAAAAAAAI
+							AAAABAMAANe5KgAAAAAA
+							DAAAAAEGAABUAAAAZAAA
+							AHQAAAAIAAAAAAQAAEHA
+							j5vbsETJGAAAAAECAAAC
+							AAAAAAAAAA8AAAAAAAAA
+							AAAAAAAAAAAIAAAABAMA
+							AAEAAAAAAAAABAAAAAMD
+							AAD1AQAACAAAAAEJAABm
+							aWxlOi8vLwcAAAABAQAA
+							R0FSQkFHRQAIAAAABAMA
+							AADgAdvoAAAACAAAAAAE
+							AABBwHZXul/xXCQAAAAB
+							AQAARTcyMEJDRTMtMEQ5
+							MC00NzMzLUJGMjYtRjEx
+							REI5MjA0MkU1GAAAAAEC
+							AACBAAAAAQAAAO8TAAAB
+							AAAAAAAAAAAAAAABAAAA
+							AQEAAC8AAAAAAAAAAQUA
+							AMwAAAD+////AQAAAAAA
+							AAAQAAAABBAAAEAAAAAA
+							AAAABRAAAIQAAAAAAAAA
+							EBAAAKgAAAAAAAAAQBAA
+							AJgAAAAAAAAAAiAAAHAB
+							AAAAAAAABSAAAOQAAAAA
+							AAAAECAAAPQAAAAAAAAA
+							ESAAACQBAAAAAAAAEiAA
+							AAQBAAAAAAAAEyAAABQB
+							AAAAAAAAICAAAFABAAAA
+							AAAAMCAAAHwBAAAAAAAA
+							AcAAAMgAAAAAAAAAEcAA
+							ACAAAAAAAAAAEsAAANgA
+							AAAAAAAAENAAAAQAAAAA
+							AAAA
+							</data>
+							<key>hasPublishedContent</key>
+							<true/>
+							<key>ignoreCertificateErrors</key>
+							<false/>
+							<key>label</key>
+							<string>local</string>
+							<key>maxConnections</key>
+							<integer>6</integer>
+							<key>path</key>
+							<string></string>
+							<key>server</key>
+							<string></string>
+							<key>serverConfigurationVersions</key>
+							<array/>
+							<key>type</key>
+							<integer>0</integer>
+							<key>useSSLOption</key>
+							<integer>2</integer>
+							<key>user</key>
+							<string></string>
+							<key>websiteAddress</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>PublishingSettingsConfigured</key>
+					<true/>
+					<key>RememberPrivacyMessageDismissed</key>
+					<false/>
+					<key>SelectedPublishingDestinationIndex</key>
+					<integer>0</integer>
+					<key>SettingsPlugins</key>
+					<array/>
+					<key>ShowBreadcrumbTrail</key>
+					<false/>
+					<key>ShowPrivacyMessage</key>
+					<false/>
+					<key>SiteBannerAltText</key>
+					<string>yummy pie and Green Detox</string>
+					<key>SiteLanguage</key>
+					<string>en</string>
+					<key>SloganText</key>
+					<string></string>
+					<key>SloganUsed</key>
+					<false/>
+					<key>ThemeName</key>
+					<string>Future</string>
+					<key>TitleText</key>
+					<string>Say hello to Green Detox</string>
+					<key>TitleTextUsed</key>
+					<true/>
+					<key>UniqueBackupName</key>
+					<string>FDD2FFF2-D307-4588-A8D7-466E9B393B15_rwbackup</string>
+					<key>WantsXMLSiteMap</key>
+					<true/>
+					<key>autoStartWebServer</key>
+					<false/>
+					<key>cacheBustingString</key>
+					<string>?rwcache=558659960</string>
+					<key>globalCSS</key>
+					<string>body {
+	width:100%;
+	margin:0 auto;
+}
+h1 {
+    font-size: 3rem;
+    font-weight: 400;
+    color: #00a79d;
+    text-align: center;
+}
+h2 {
+	font-size: 2rem;
+    font-weight: 400;
+    color: #939598;
+    text-align: center;
+}
+h1, h2, h3, h4 {
+    font-family: 'Titillium Web', sans-serif;
+}
+hr {
+	 margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+.row {
+	display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-align-content: stretch;
+    -ms-flex-line-pack: stretch;
+    align-content: stretch;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    width:100%;
+}
+.row img {
+    float:left;
+    padding: 0 20px 20px 0;
+    text-align:center!important;
+    vertical-align: middle;
+    width: auto ;
+  	 max-width: 100% ;
+    height: auto ;
+}
+
+.row p {
+	position:relative;
+	bottom:-10px;
+	color:#333;
+	width: 100% ;
+  	max-width: 100% ;
+   height: auto ;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align:left;
+}
+sup {
+    top: -.5em;
+}
+
+sub, sup {
+    position: relative;
+    font-size: 75%;
+    line-height: 0;
+    vertical-align: baseline;
+}
+
+@media (max-width: 767px){
+	.row img {
+		padding-left:20%;
+		padding-right:20%;
+		width: 100%!important;
+  		max-width: 100% ;
+  		height: auto ;
+}	
+	.row p {
+		text-align: left;
+}
+	
+	ul {
+		line-height: 1.3em;
+}
+    p {
+    	line-height: 1.3em;
+}
+    h1 {
+    	font-size:22px;
+       font-weight: 400;
+       color:#00a79d;
+       text-align:center;
+}
+    h2 {
+    	font-size:18px;
+    	font-weight: 400;
+    	color:#939598;
+    	text-align:center;
+    	padding-left: 2%;
+    	padding-right: 2%;
+}
+    ul {
+    font-size: 1.2em!important;
+    text-align: left;
+}
+
+}</string>
+					<key>hasChangedGlobalBody</key>
+					<false/>
+					<key>hasChangedGlobalCSS</key>
+					<false/>
+					<key>hasChangedGlobalHeader</key>
+					<false/>
+					<key>hasChangedGlobalJavascript</key>
+					<false/>
+					<key>hasChangedGlobalPrefix</key>
+					<false/>
+					<key>iconPackage</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oKUHCA0TGlUkbnVsbNIJCgsMWmRpY3Rpb25h
+					cnlWJGNsYXNzgAKABNMODwoQERJXTlMua2V5
+					c1pOUy5vYmplY3RzoKCAA9IUFRYXWiRjbGFz
+					c25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVE
+					aWN0aW9uYXJ5oxYYGVxOU0RpY3Rpb25hcnlY
+					TlNPYmplY3TSFBUbHF5XZWJJY29uUGFja2Fn
+					ZaIdGV5XZWJJY29uUGFja2FnZV8QD05TS2V5
+					ZWRBcmNoaXZlctEgIVRyb290gAEACAARABoA
+					IwAtADIANwA9AEMASABTAFoAXABeAGUAbQB4
+					AHkAegB8AIEAjACVAKsArwC8AMUAygDZANwA
+					6wD9AQABBQAAAAAAAAIBAAAAAAAAACIAAAAA
+					AAAAAAAAAAAAAAEH
+					</data>
+					<key>minifyExtraFiles</key>
+					<true/>
+					<key>twitterAccount</key>
+					<string>@greenDetox</string>
+					<key>useCacheBusting</key>
+					<true/>
+					<key>useDocumentPortability</key>
+					<true/>
+					<key>useSocialTags</key>
+					<true/>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>DefaultPageAttributes</string>
+				<string>Pages</string>
+				<string>Resources</string>
+				<string>SharedPluginData</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Document</string>
+</dict>
+</plist>
